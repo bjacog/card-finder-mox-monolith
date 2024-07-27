@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card_finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.2"
+  }
+}
